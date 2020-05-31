@@ -1,0 +1,43 @@
+DAtos para PHPMYADMIN:
+
+base de datos: myDb
+usuario: root
+contraseña: test
+
+
+Usuario administrador MYSQL
+
+usuario: admin
+contraseña: 1234
+
+
+Usuarios de la página (registrados)
+
+usuario: Antonio
+correo Antonio@antonio.com
+contraseña: 1234
+
+usuario: ana
+correo ana@ana.com
+contraseña: 1234
+
+usuario: luisa
+correo luisa@luisa.com
+contraseña: 1234
+
+user
+user@user.com
+1234
+
+prueba
+prueba@prueba.es
+1234
+Modo acceso: por correo electronico y contraseña.
+
+
+
+CUando inicias sesión con usuario prueba, por ejemplo, le das a pagina de usuario y añades una foto (usuarios.php) , lo que hace es añaadir un registro a la tabla documentos y a la vez copia el archivo a una carpeta que se encuentra en recursos con el nombre del usuario (prueba). EL proceso inverso al eliminar el archivo (borrar2.php). 
+
+
+
+
